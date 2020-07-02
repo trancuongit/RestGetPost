@@ -1,0 +1,14 @@
+#
+#server:
+#  port:9090
+#
+#default:
+#  course:
+#    name:Tran Cuong IT
+#    chapterCount: 9
+#course:
+#  name: Hero
+#  chapterCount: 500
+#  rating: 100
+#  author: Super Hero
+
